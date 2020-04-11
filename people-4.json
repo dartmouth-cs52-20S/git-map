@@ -197,5 +197,16 @@
             -73.353180
         ],
         "year": "'21"
+    } ,
+    {           
+        "name": "Jennifer Qian",
+        "iconUrl": "images/jennifer.jpg",
+        "url": "//jqoo.me/",
+        "message": "We made it, FINALLY",
+        "lat_long": [
+            35.910259,
+            -79.055473
+        ],
+        "year": "'22"
     } 
 ]
